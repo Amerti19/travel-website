@@ -72,13 +72,13 @@ const Footer = () => {
           <span className="text-lg"></span>
           <span className="text-lg"></span>
           <div className="flex items-center gap-4 mt-4 md:mt-0 text-gray-600">
-  <a href="#" className="hover:text-blue-500">
+  <a href="https://www.facebook.com" className="hover:text-blue-500">
     <FaFacebookF size={20} />
   </a>
-  <a href="#" className="hover:text-sky-500">
+  <a href="https://www.twitter.com"className="hover:text-sky-500">
     <FaTwitter size={20} />
   </a>
-  <a href="#" className="hover:text-pink-500">
+  <a href="https://www.instagram.com" className="hover:text-pink-500">
     <FaInstagram size={20} />
   </a>
 </div>
